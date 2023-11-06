@@ -56,10 +56,10 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **[Add new items]**
-- **[List all items]**
-- **[Search for an item]**
-- **[Update an item]**
+- **[CREATE new users and books]**
+- **[List all books and users]**
+- **[Update and Delete all books and users]**
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
